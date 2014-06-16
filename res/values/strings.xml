@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">layoutTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button11">第一个按钮</string>
+    <string name="button12">第二个按钮</string>
+    <string name="button13">第三个按钮</string>
+    <string name="sure">确定</string>
+    <string name="cancle">取消</string>
+    <string name="detail">查看详情</string>
+
+</resources>
